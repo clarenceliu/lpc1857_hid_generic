@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>..\..\..\..\software\lpc_core\lpc_chip\chip_18xx_43xx\lib_lpc_chip_18xx.uvproj</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>..\..\..\..\software\lpc_core\lpc_board\boards_18xx\keil_mcb_1857\lib_lpc_board_keil_mcb_1857.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_adc\periph_adc.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_atimer\periph_atimer.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_blinky\periph_blinky.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_ccan\periph_ccan.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_dac\periph_dac.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_eeprom\periph_eeprom.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_ethernet\periph_ethernet.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_flashiap\periph_flashiap.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_grouped_int\periph_grouped_int.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_i2c\periph_i2c.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_i2cm_interrupt\periph_i2cm_interrupt.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_i2cm_polling\periph_i2cm_polling.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_i2s\periph_i2s.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_lcd\periph_lcd.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_memtest\periph_memtest.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_ritimer\periph_ritimer.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_rtc\periph_rtc.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_sdmmc\periph_sdmmc.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_ssp\periph_ssp.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_systick\periph_systick.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_timers\periph_timers.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_uart\periph_uart.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_uart_rb\periph_uart_rb.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\periph\periph_watchdog\periph_watchdog.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\freertos\blinky\freertos_blinky.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\cdc_uart\cdc_uart.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\cdc_vcom\cdc_vcom.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\dfu_composite\dfu_composite.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\hid_generic\hid_generic.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\hid_keyboard\hid_keyboard.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\hid_mouse\hid_mouse.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\bwtest\bwtest.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\msc_ram\msc_ram.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\libusbdev\libusbdev.uvproj</PathAndName>
+  </project>
+
+</ProjectWorkspace>

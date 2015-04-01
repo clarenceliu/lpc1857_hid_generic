@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\xiongjing\Desktop\2\lpcopen_2_12_keil_iar_keil_mcb_1857\applications\lpc18xx_43xx\keil_uvision_projects\keil_mcb_1857\usbd_rom\hid_keyboard\hid_keyboard.uvproj
+Project File Date:  03/26/2015
+
+<h2>Output:</h2>
+Rebuild target 'iflash_keil_mcb_1857'
+compiling sysinit.c...
+assembling keil_startup_lpc18xx43xx.s...
+compiling hid_desc.c...
+compiling hid_keyboard.c...
+compiling hid_main.c...
+linking...
+.\keil_output\hid_keyboard.axf: error: L6002U: Could not open file ..\..\..\..\..\..\software\lpc_core\lpc_board\boards_18xx\keil_mcb_1857\keil_output\core_m3\lib_lpc_board_keil_mcb_1857.lib: No such file or directory
+".\keil_output\hid_keyboard.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'iflash_keil_mcb_1857'
+linking...
+Program Size: Code=4336 RO-data=1440 RW-data=100 ZI-data=884  
+After Build - User command #1: C:\Keil\\ARM\BIN\ELFDWT.EXE .\keil_output\hid_keyboard.axf BASEADDRESS(0x1A000000)
+ELFDWT - Signature Creator V1.1
+COPYRIGHT Keil - An ARM Company, Copyright (C) 2012
+*** Updated Signature over Range[32] (0x1A000000 - 0x1A000018): @0x1A00001C = 0x53FFF1C6
+*** Processing completed, no Errors.
+".\keil_output\hid_keyboard.axf" - 0 Errors, 0 Warning(s).

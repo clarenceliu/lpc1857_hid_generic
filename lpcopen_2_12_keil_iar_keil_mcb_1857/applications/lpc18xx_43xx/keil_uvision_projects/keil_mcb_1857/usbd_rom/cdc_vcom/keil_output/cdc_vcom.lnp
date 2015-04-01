@@ -1,0 +1,12 @@
+--cpu Cortex-M3
+".\keil_output\sysinit.o"
+".\keil_output\keil_startup_lpc18xx43xx.o"
+".\keil_output\cdc_desc.o"
+".\keil_output\cdc_main.o"
+".\keil_output\cdc_vcom.o"
+"..\..\..\..\..\..\software\lpc_core\lpc_chip\chip_18xx_43xx\keil_output\core_m3\lib_lpc_chip_18xx.lib"
+".\lib_lpc_board_keil_mcb_1857.lib"
+--strict --scatter ".\keil_output\cdc_vcom.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\keil_output\cdc_vcom.map" -o .\keil_output\cdc_vcom.axf

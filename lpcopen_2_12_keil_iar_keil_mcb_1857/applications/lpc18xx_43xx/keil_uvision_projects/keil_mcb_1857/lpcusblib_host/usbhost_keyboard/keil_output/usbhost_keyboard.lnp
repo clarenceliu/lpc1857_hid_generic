@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+".\keil_output\sysinit.o"
+".\keil_output\keyboardhost.o"
+".\keil_output\keil_startup_lpc18xx43xx.o"
+".\keil_output\host.o"
+".\keil_output\ehci.o"
+".\keil_output\hcd.o"
+".\keil_output\hoststandardreq.o"
+".\keil_output\usbtask.o"
+".\keil_output\configdescriptor.o"
+".\keil_output\usbmemory.o"
+".\keil_output\usbcontroller.o"
+".\keil_output\hal_lpc18xx.o"
+".\keil_output\pipe.o"
+".\keil_output\pipestream.o"
+".\keil_output\hidclasshost.o"
+".\keil_output\hidparser.o"
+"..\..\..\..\..\..\software\lpc_core\lpc_board\boards_18xx\keil_mcb_1857\keil_output\core_m3\lib_lpc_board_keil_mcb_1857.lib"
+"..\..\..\..\..\..\software\lpc_core\lpc_chip\chip_18xx_43xx\keil_output\core_m3\lib_lpc_chip_18xx.lib"
+--strict --scatter ".\keil_output\usbhost_keyboard.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\keil_output\usbhost_keyboard.map" -o .\keil_output\usbhost_keyboard.axf

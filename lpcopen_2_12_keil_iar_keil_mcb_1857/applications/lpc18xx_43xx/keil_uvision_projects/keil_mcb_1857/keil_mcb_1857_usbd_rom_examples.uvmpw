@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>..\..\..\..\software\lpc_core\lpc_chip\chip_18xx_43xx\lib_lpc_chip_18xx.uvproj</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+    <NodeIsCheckedInBatchBuild>1</NodeIsCheckedInBatchBuild>
+  </project>
+
+  <project>
+    <PathAndName>..\..\..\..\software\lpc_core\lpc_board\boards_18xx\keil_mcb_1857\lib_lpc_board_keil_mcb_1857.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+    <NodeIsCheckedInBatchBuild>1</NodeIsCheckedInBatchBuild>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\cdc_uart\cdc_uart.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\cdc_vcom\cdc_vcom.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\dfu_composite\dfu_composite.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\hid_generic\hid_generic.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\hid_keyboard\hid_keyboard.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\hid_mouse\hid_mouse.uvproj</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\bwtest\bwtest.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\msc_ram\msc_ram.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usbd_rom\libusbdev\libusbdev.uvproj</PathAndName>
+  </project>
+
+</ProjectWorkspace>

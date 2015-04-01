@@ -1,0 +1,6 @@
+--create .\keil_output\core_m3\lib_lpc_board_keil_mcb_1857.lib
+.\keil_output\core_m3\board.o
+.\keil_output\core_m3\board_sysinit.o
+.\keil_output\core_m3\mem_tests.o
+.\keil_output\core_m3\uda1380.o
+.\keil_output\core_m3\lpc_phy_dp83848.o
